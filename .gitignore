@@ -1,2 +1,7 @@
 /WebApplication1_roque/.vs
 /WebApplication1_roque/WebApplication1_roque/bin
+*.bin
+*.v2
+*.vsidx
+/WebApplication1/bin
+*.gz
