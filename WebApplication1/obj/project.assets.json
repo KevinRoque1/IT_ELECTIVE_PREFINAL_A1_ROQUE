@@ -3416,11 +3416,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KC\\Downloads\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\KC\\Documents\\GitHub\\IT_ELECTIVE_PREFINAL_A1_ROQUE\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\KC\\Downloads\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\KC\\Documents\\GitHub\\IT_ELECTIVE_PREFINAL_A1_ROQUE\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\KC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KC\\Downloads\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\KC\\Documents\\GitHub\\IT_ELECTIVE_PREFINAL_A1_ROQUE\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3507,7 +3507,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
